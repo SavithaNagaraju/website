@@ -1,5 +1,8 @@
 # Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43e6eed7-7ed0-437c-8593-45b720d43996/deploy-status)](https://app.netlify.com/sites/savithanagaraju/deploys)
+
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
