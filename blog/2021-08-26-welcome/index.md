@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome Praveen
+title: Welcome 
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
