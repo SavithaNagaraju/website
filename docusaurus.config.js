@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Savitha Nagarajus Site',
+  tagline: 'Dinosaurs may be cool',
   url: 'https://savithanagaraju.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
