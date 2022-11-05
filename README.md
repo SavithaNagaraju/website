@@ -2,6 +2,29 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+## SnPk Instructions
+
+To update all npm packages
+```
+npm update
+```
+
+To devlop locally
+```
+npm run start
+```
+
+To build and serve
+```
+npm run build
+npm run serve
+```
+
+### mermaid-diagrams
+https://sjwall.github.io/mdx-mermaid/docs/examples/
+
+## Official stuff
+
 ### Installation
 
 ```
